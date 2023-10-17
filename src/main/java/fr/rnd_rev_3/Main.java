@@ -43,6 +43,8 @@ public class Main {
 
         }
 
+        System.out.println("Votre salaire maintenant : "+salaire);
+
     }
 }
 
